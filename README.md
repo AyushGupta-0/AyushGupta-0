@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Full stack development**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-snowy-chi.vercel.app](https://personal-portfolio-snowy-chi.vercel.app)
-
+- 👨‍💻 All of my projects are available at [[https://personal-portfolio-snowy-chi.vercel.app](https://portfolio-new-sage-seven.vercel.app/)]
 - 💬 Ask me about **React , Smart Contracts**
 
 - 📫 How to reach me **ayush5555.ag@gmail.com**
